@@ -3,11 +3,8 @@
 
 Email Me 👉 ✉️ **rishabhsharma14426@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** PROJECTS
-- 🌱 **I’m currently learning:** DSA WITH JAVA
-- 👯 **I’m looking to collaborate on:** UNIQUE PROJECTS 
-- 🤔 **I’m looking for help with:** BLANK
-- 💬 **Ask me about:** tech 
+# 💫 About Me:
+🔭 I’m currently pursuing Bechelor Of Computer Science From Gla University<br>✒️I have completed my Diploma in Computer Science<br>🌱 I’m currently learning Data Structures and Full Stack Development<br>👯 I’m looking to collaborate on DSA Projects<br>
 - 📫 **How to reach me:** rishabhsharma14426@gmail.com
 - 😄 **Pronouns:** Rishabh Sharma
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
