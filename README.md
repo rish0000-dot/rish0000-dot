@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
-<h3 align="center">Instead of just “Student” or “B.Tech CSE Student”, use something like: “Aspiring Software Engineer | Python, Machine Learning Enthusiast | Seeking Internship / Project Opportunities”</h3>
+<h3 align="center">Instead of just “Student” or “B.Tech CSE Student”, use something like: “Aspiring Software Engineer | Python, Machine Learning Enthusiast | Seeking Internship / 
+
+# 💫 About Me:
+🔭 I’m currently pursuing Bechelor Of Computer Science From Gla University<br>✒️I have completed my Diploma in Computer Science<br>🌱 I’m currently learning Data Structures and Full Stack Development<br>👯 I’m looking to collaborate on DSA Projects<br>📫 How to reach me: rishabhsharma14426@gmail.com<br>😄 Pronouns: Rishabh Sharma<br>⚡ Fun fact: I Love Tech and Tech Love Me
+
+  
+ Project Opportunities”</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rish0000-dot&label=Profile%20views&color=0e75b6&style=flat" alt="rish0000-dot" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rish0000-dot" alt="rish0000-dot" /></a> </p>
+
 - 📫 How to reach me **rishabhsharma14426@gmail.com**
 
 
