@@ -1,13 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:0A192F&height=220&section=header&text=Rishabh%20Sharma&fontSize=55&fontColor=CCD6F6&fontAlignY=38&animation=fadeIn&desc=B.Tech%20CSE%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descFontColor=8892B0&descSize=17&descAlignY=60" width="100%"/>
-
-<!-- ANIMATED ROLE SWITCHER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=64FFDA&center=true&vCenter=true&width=680&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%7C+React+%2B+Node.js;Data+Structures+%26+Algorithms+Practitioner;Python+%26+Machine+Learning+Explorer;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D)](https://github.com/rish0000-dot)
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Rishabh%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=B.Tech%20CSE%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast&descFontColor=aaaaaa&descSize=16&descAlignY=60" width="100%"/>
 
 </div>
