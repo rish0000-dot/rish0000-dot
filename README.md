@@ -65,13 +65,7 @@ Email      : rishabhsharma14426@gmail.com
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rish0000-dot&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rish0000-dot&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rish0000-dot&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&stroke=0d1117&currStreakNum=c9d1d9&sideNums=c9d1d9" width="500"/>
+<img src="https://streak-stats.demolab.com?user=rish0000-dot&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&stroke=0d1117&currStreakNum=c9d1d9&sideNums=c9d1d9" width="540"/>
 
 </div>
 
