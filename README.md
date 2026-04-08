@@ -145,7 +145,7 @@ Mantra     :  "I Love Tech and Tech Loves Me ⚡  |  RADHEY RADHEY 🙏"
 
 ---
 
-<div align="center">
+<div align="">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
