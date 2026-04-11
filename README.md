@@ -38,7 +38,7 @@ Email      : rishabhsharma14426@gmail.com
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-sharma-b66a1837b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-171515?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabh-portfolio-zbes.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-171515?style=for-the-badge&logo=vercel&logoColor=white)]([https://rishabh-portfolio-zbes.onrender.com/](https://rishabh-portfolio-eqmr.onrender.com))
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishabh_sharma__/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/rishabhsharma144)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhsharma14426@gmail.com)
