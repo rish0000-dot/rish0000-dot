@@ -13,7 +13,7 @@
 
 <br/>
 
-![Snake eating my contributions](https://raw.githubusercontent.com/rish0000-dot/rish0000-dot/output/snake-dark.svg)
+
 
 <br/>
 
