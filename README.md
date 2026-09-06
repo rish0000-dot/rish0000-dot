@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./rishabh.png" width="150" style="border-radius: 50%;" alt="Rishabh"/>
+
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rishabh;Software+%26+Full+Stack+Developer;I+build+things+for+the+web+%F0%9F%8C%90;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
